@@ -15,7 +15,7 @@ testimonials:
   - name: "John Smith"
     title: "CTO at TechStartup"
     avatar: "/images/testimonial-1.svg"
-    quote: "We built our SaaS website in record time. The performance is incredible, and our users love the modern, clean design."
+    quote: "We built our Otter website in record time. The performance is incredible, and our users love the modern, clean design."
   - name: "Sarah Johnson"
     title: "Founder at WebFlow"
     avatar: "/images/testimonial-1.svg"
@@ -23,17 +23,17 @@ testimonials:
   - name: "Michael Chen"
     title: "Lead Developer at CloudTech"
     avatar: "/images/testimonial-1.svg"
-    quote: "This theme made it easy to create a professional SaaS website. The build times are incredibly fast, and the code is clean and maintainable."
+    quote: "This theme made it easy to create a professional Otter website. The build times are incredibly fast, and the code is clean and maintainable."
 ---
 
 {{< hero 
-    headline="Build Your SaaS Website"
-    sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
-    primary_button_text="Get Started Free"
+    headline="Transform Your Health with Otter"
+    sub_headline="Leverage the power of data to unlock personalized health insights and optimize your wellness journey."
+    primary_button_text="Get Started Today"
     primary_button_url="#"
-    secondary_button_text="View Demo"
+    secondary_button_text="Book a Consultation"
     secondary_button_url="#"
-    hero_image="/images/hero-dashboard.svg"
+    hero_image="/images/imotter.png"
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
     gradient-angle="180"
@@ -42,53 +42,54 @@ testimonials:
 {{< client-logos animate="true" >}}
 
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="Cutting-Edge Health Solutions"
+    description="Explore how Otter uses personalized data to help you achieve better health outcomes."
 >}}
 
 {{< feature
-    title="Lightning-Fast Performance"
-    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
-    badge="Performance"
+    title="Personalized Wellness Insights"
+    description="Unlock tailored health insights based on your personal data to make smarter, more informed health decisions."
+    badge="Health Insights"
     badgeColor="#2563eb"
     image="/images/feature-1.svg"
     buttonText="Learn More"
-    buttonLink="/features/performance/"
-    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    buttonLink="/features/personalized-wellness/"
+    features="Data-driven health reports,Personalized recommendations,Optimized health goals,Progress tracking"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Beautiful Design System"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
-    badge="Design"
+    title="Comprehensive Health Dashboard"
+    description="Visualize your health data in one place with our intuitive, easy-to-use dashboard designed to simplify your health journey."
+    badge="Dashboard"
     badgeColor="#7c3aed"
     image="/images/feature-2.svg"
     buttonText="Learn More"
-    buttonLink="/features/design-system/"
-    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
+    buttonLink="/features/health-dashboard/"
+    features="Centralized data view,Health metrics overview,Real-time progress updates,Customizable reports"
     imagePosition="left"
 >}}
 
 {{< feature
-    title="Developer Experience"
-    description="Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
-    badge="Development"
+    title="Data-Driven Health Optimization"
+    description="Leverage powerful analytics to optimize your health with data-backed insights and actionable advice."
+    badge="Analytics"
     badgeColor="#16a34a"
     image="/images/feature-3.svg"
     buttonText="Learn More"
-    buttonLink="/features/developer-experience/"
-    features="Component system,Easy customization,Clean code,Detailed documentation"
+    buttonLink="/features/data-driven-health/"
+    features="Comprehensive health analytics,Personalized health strategies,Actionable recommendations,Scientific data-backed insights"
     imagePosition="right"
 >}}
 
 {{< /features-section >}}
 
 {{< testimonials 
-    title="Trusted by Modern Web Teams"
-    description="See how teams are building better websites with our theme."
+    title="Trusted by Health Enthusiasts and Professionals"
+    description="Discover how individuals and health teams are optimizing wellness using Otter's data-driven solutions."
     animate="true"
     background-color="#f1f5f9"
 >}}
 
-{{< cta >}}
+{{< cta >}}  
+

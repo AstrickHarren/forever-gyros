@@ -1,14 +1,14 @@
 ---
 title: "Senior Frontend Developer"
 date: 2023-11-14
-description: "Join our team as a Senior Frontend Developer and help build the next generation of our SaaS platform"
+description: "Join our team as a Senior Frontend Developer and help build the next generation of our Otter platform"
 location: "Remote"
 type: "Full-time"
 salary: "$120K - $160K"
 layout: "job-single"
 ---
 
-We're looking for a Senior Frontend Developer to join our growing team and help shape the future of our SaaS platform.
+We're looking for a Senior Frontend Developer to join our growing team and help shape the future of our Otter platform.
 
 ## About the Role
 

@@ -1,6 +1,6 @@
 ---
-title: "Join Our Team"
-description: "Be part of a team that's revolutionizing the SaaS industry with innovative solutions and a people-first culture."
+title: "Join Our Health-Driven Team"
+# description: "Be part of a team that's revolutionizing health and wellness through data-driven solutions with a people-first culture."
 layout: "career"
 
 culture_section:
@@ -11,32 +11,33 @@ culture_section:
   values:
     - icon: "🌟"
       title: "Innovation First"
-      description: "We encourage creative thinking and empower our team to push boundaries and explore new possibilities."
+      description: "We encourage creative thinking and empower our team to push boundaries in health innovation and personalized wellness solutions."
     - icon: "🤝"
       title: "Collaborative Spirit"
-      description: "We believe in the power of teamwork and foster an environment where everyone's voice is heard and valued."
+      description: "We believe in the power of teamwork, fostering an environment where everyone's voice is heard and valued in shaping the future of personalized health."
     - icon: "🌱"
       title: "Growth Mindset"
-      description: "We invest in our team's development and provide opportunities for continuous learning and advancement."
+      description: "We invest in our team's development, offering opportunities for continuous learning and advancement in the rapidly evolving health technology space."
 
 benefits_section:
   title: "Why Join Us?"
   benefits:
     - icon: "💪"
       title: "Health & Wellness"
-      description: "Comprehensive health coverage, wellness programs, and mental health support."
+      description: "Comprehensive health coverage, wellness programs, and mental health support designed to improve your well-being."
     - icon: "🎯"
       title: "Work-Life Balance"
-      description: "Flexible working hours, remote options, and unlimited PTO policy."
+      description: "Flexible working hours, remote options, and unlimited PTO policy to help you achieve a healthy balance."
     - icon: "📚"
       title: "Learning & Development"
-      description: "Professional development budget and regular learning sessions."
+      description: "Professional development budget and regular learning sessions to help you grow in your health tech career."
 
 positions_section:
   title: "Open Positions"
   view_position_text: "View Position"
 ---
 
-At Saasify, we believe in empowering our team members to do their best work. We foster an environment of innovation, collaboration, and continuous learning. Our culture is built on trust, transparency, and a shared commitment to excellence.
+At Otter, we believe in empowering our team members to make a real impact on personalized health and wellness. We foster an environment of innovation, collaboration, and continuous learning. Our culture is built on trust, transparency, and a shared commitment to excellence in health technology.
 
-We're looking for passionate individuals who want to make a difference and grow with us. If you're excited about building the future of SaaS and working with cutting-edge technology, we'd love to hear from you.
+We're looking for passionate individuals who are excited about shaping the future of health through data and technology. If you're eager to contribute to the personalized wellness revolution and grow with us, we'd love to hear from you.
+

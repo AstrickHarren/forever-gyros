@@ -6,7 +6,7 @@ badge: "Design"
 badgeColor: "#7c3aed"
 features:
   - title: "Modern UI Components"
-    description: "A complete set of pre-built components designed for SaaS websites. From navigation bars to pricing tables, everything you need is included."
+    description: "A complete set of pre-built components designed for Otter websites. From navigation bars to pricing tables, everything you need is included."
   - title: "Responsive Design"
     description: "Every component is fully responsive and tested across all device sizes. Your website will look great on everything from phones to large displays."
   - title: "Custom Typography"

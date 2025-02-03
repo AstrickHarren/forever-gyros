@@ -1,17 +1,17 @@
 ---
-title: "About Our Company"
+title: "About Otter"
 layout: "company"
-description: "Learn about our mission, leadership team, and the investors backing our vision"
+description: "Learn about our mission, leadership team, and the investors backing our vision to optimize health and wellness through personalized data."
 ---
 
 {{< section-container class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32" >}}
     <div class="text-center">
-        <h1 class="text-4xl md:text-5xl font-bold mb-6">Building the Future of SaaS</h1>
-        <p class="text-xl text-gray-600 mb-16">We're on a mission to revolutionize how businesses operate in the digital age</p>
+        <h1 class="text-4xl md:text-5xl font-bold mb-6">Building the Future of Personalized Health</h1>
+        <p class="text-xl text-gray-600 mb-16">We're on a mission to revolutionize the way people approach their health with data-driven solutions and personalized wellness insights.</p>
         <div class="max-w-3xl mx-auto bg-white rounded-xl shadow-sm p-8">
             <h2 class="text-3xl font-bold mb-4">Our Mission</h2>
             <p class="text-xl text-gray-600">
-                We're dedicated to empowering businesses with innovative SaaS solutions that drive growth and efficiency. Our platform combines cutting-edge technology with intuitive design to solve complex business challenges.
+                We're dedicated to helping individuals optimize their health through personalized insights powered by data. Our platform combines advanced health analytics with intuitive design to guide users toward healthier, more informed decisions.
             </p>
         </div>
     </div>
@@ -22,20 +22,20 @@ description: "Learn about our mission, leadership team, and the investors backin
         <h2 class="text-3xl font-bold text-center mb-12">Leadership Team</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
-                name="Sarah Johnson"
-                title="Chief Executive Officer"
+                name="Themistoklis Filippidis"
+                title="Role"
                 image="/images/company/exec-1.svg"
                 linkedin="#"
             >}}
             {{< team-member 
-                name="Michael Chen"
-                title="Chief Technology Officer"
+                name="Lingfei Ma"
+                title="Role"
                 image="/images/company/exec-2.svg"
                 linkedin="#"
             >}}
             {{< team-member 
-                name="Emily Rodriguez"
-                title="Chief Product Officer"
+                name="Yiheng Zhang"
+                title="Role"
                 image="/images/company/exec-3.svg"
                 linkedin="#"
             >}}
@@ -62,17 +62,17 @@ description: "Learn about our mission, leadership team, and the investors backin
             {{< value-card 
                 title="Innovation First"
                 icon="lightbulb"
-                description="We constantly push boundaries and embrace new technologies to solve complex challenges."
+                description="We constantly push the boundaries of health technology, embracing new data-driven approaches to improve wellness."
             >}}
             {{< value-card 
                 title="Customer Success"
                 icon="users"
-                description="Our customers' success is our success. We're committed to delivering exceptional value."
+                description="Our users' health is our priority. We're committed to delivering valuable health insights and personalized wellness experiences."
             >}}
             {{< value-card 
                 title="Transparency"
                 icon="eye"
-                description="We believe in open communication and building trust through transparency."
+                description="We believe in open communication, sharing health data responsibly, and building trust with our users through transparency."
             >}}
         </div>
     </div>
@@ -81,9 +81,9 @@ description: "Learn about our mission, leadership team, and the investors backin
 {{< section-container class="py-20" >}}
     <div class="max-w-6xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
-            {{< stat number="2015" label="Founded" >}}
+            {{< stat number="2023" label="Founded" >}}
             {{< stat number="200+" label="Team Members" >}}
-            {{< stat number="10k+" label="Customers" >}}
+            {{< stat number="10k+" label="Users" >}}
             {{< stat number="50M+" label="Annual Revenue" >}}
         </div>
     </div>

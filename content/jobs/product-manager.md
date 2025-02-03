@@ -22,7 +22,7 @@ As a Product Manager, you'll be responsible for:
 
 ## Requirements
 
-- 4+ years of product management experience in SaaS
+- 4+ years of product management experience in Otter
 - Strong analytical and problem-solving skills
 - Excellent communication and stakeholder management abilities
 - Experience with agile development methodologies
@@ -32,7 +32,7 @@ As a Product Manager, you'll be responsible for:
 ## Nice to Have
 
 - MBA or relevant advanced degree
-- Experience with B2B SaaS products
+- Experience with B2B Otter products
 - Background in UX design or software development
 - Experience with product analytics tools
 - Public speaking or presentation experience

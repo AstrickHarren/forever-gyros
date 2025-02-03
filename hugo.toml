@@ -1,6 +1,6 @@
 baseURL = "https://otterltd.com"
 languageCode = "en-us"
-title = "Saasify"
+title = "Otter"
 
 # Theme Config
 theme = "hugo-saasify-theme"
@@ -27,24 +27,26 @@ paginatePath = "page"
 [params]
 description = ""
 author = "Chaoming Li"
-logo = "/images/logo.svg"
+logo = "/images/otter.webp"
 # Google Analytics ID (e.g., "G-XXXXXXXXXX")
 # googleAnalytics = "G-XXXXXXXXXX"
 
 # Global CTA Configuration
 [params.cta]
 enable = true
-title = "Ready to Build Your SaaS Website?"
-description = "Join companies already using our theme to create beautiful, high-performance websites."
-gradient_from = "#2563eb"                                                                              # Indigo-600
-gradient_to = "#7c3aed"                                                                                # Purple-600
+title = "Personalized Health"
+description = "Join individuals and organizations that trust Otter for personalized health solutions powered by your data."
+gradient_from = "#2563eb"                                                                                                   # Indigo-600
+gradient_to = "#7c3aed"                                                                                                     # Purple-600
 gradient_angle = 30
-[params.cta.primary_button]
-text = "Get Started Free"
-url = "/get-started"
-[params.cta.secondary_button]
-text = "Book Demo"
-url = "/demo"
+## buttons for additional actions
+
+# [params.cta.primary_button]
+# text = "Get Started Free"
+# url = "/get-started"
+# [params.cta.secondary_button]
+# text = "Book Demo"
+# url = "/demo"
 
 # Social Media Links
 [params.social]
@@ -68,7 +70,7 @@ border = "border-b border-gray-100"
 
 # Logo configuration
 [params.header.logo]
-src = "/images/logo.svg"
+src = "/images/otter.webp"
 
 # Menu configuration
 [params.header.menu]
@@ -170,22 +172,18 @@ startLevel = 2
 # Navigation Menu
 [menu]
 [[menu.main]]
-name = "Features"
+name = "Health Solutions"
 weight = 1
 [menu.main.params]
 has_submenu = true
 submenu = [
-  { name = "Performance", url = "/features/performance/" },
-  { name = "Design System", url = "/features/design-system/" },
-  { name = "Developer Experience", url = "/features/developer-experience/" },
+  { name = "Personalized Wellness", url = "/features/personalized-wellness/" },
+  { name = "Data-driven Health", url = "/features/data-driven-health/" },
 ]
+
 [[menu.main]]
-name = "Pricing"
-url = "/pricing"
-weight = 2
-[[menu.main]]
-name = "Blog"
-url = "/blog"
+name = "News"
+url = "/news"
 weight = 3
 [[menu.main]]
 name = "Company"
@@ -198,22 +196,18 @@ submenu = [
 ]
 
 # Footer Column 1 Menu
+# Footer Column 1 Menu
 [[menu.footer_column_1]]
-name = "Performance"
-url = "/features/performance/"
+name = "Personalized Wellness"
+url = "/health/personalized-wellness/"
 weight = 1
 [[menu.footer_column_1]]
-name = "Design System"
-url = "/features/design-system/"
+name = "Data-driven Health"
+url = "/health/data-driven-health/"
 weight = 2
-[[menu.footer_column_1]]
-name = "Developer Experience"
-url = "/features/developer-experience/"
-weight = 3
-
 # Footer Column 2 Menu
 [[menu.footer_column_2]]
-name = "Blog"
+name = "New"
 url = "/blog"
 weight = 1
 [[menu.footer_column_2]]
